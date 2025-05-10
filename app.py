@@ -78,7 +78,7 @@ def classify_with_gradcam(image):
 
 # Set up UI
 set_background()
-st.markdown("<h1 style='text-align: center; font-size: 48px;'>AI vs Real Art Image Classification</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; font-size: 48px;'>AI vs Human Art Image Classification</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; font-size: 20px;'>Upload image(s) and see if they are AI-generated or real artwork with Grad-CAM explanation.</p>", unsafe_allow_html=True)
 
 # Model Information
