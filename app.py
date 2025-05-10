@@ -20,16 +20,16 @@ def set_background():
             background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg");
             background-size: cover;
             backdrop-filter: blur(10px);
-            color: black !important;
         }
         h1, h2, h3, h4, h5, h6, p, div, span {
-            color: black !important;
+            color: white !important;
+            font-weight: bold !important;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
         }
         </style>
         """,
         unsafe_allow_html=True
     )
-
 
 # Preprocess input image
 def preprocess_image(image):
