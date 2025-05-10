@@ -81,11 +81,10 @@ The project leverages **MobileNetV2's lightweight architecture** to ensure effic
 
 The app is deployed on **Streamlit Cloud**, making it accessible to users anywhere.
 
-**Streamlit App Link**: [Access Here](https://classify-ai-image-or-realart.streamlit.app/)
+**Streamlit App Link**: [Access Here](https://ai-vs-human-iuglavr25pedlyysbanq26.streamlit.app/)
 
 **APP**
 
-![Alt Text](https://github.com/RobinMillford/Classifying-AI-Generated-and-Real-Art/blob/main/app.png)
 
 ---
 
@@ -116,7 +115,7 @@ The app is deployed on **Streamlit Cloud**, making it accessible to users anywhe
 ### From Streamlit Cloud
 
 1. **Visit the Deployed App**:  
-   Open the [Streamlit App](https://classify-ai-image-or-realart.streamlit.app/) in your browser.
+   Open the [Streamlit App](https://ai-vs-human-iuglavr25pedlyysbanq26.streamlit.app/) in your browser.
 
 2. **Upload Images**:  
    Drag and drop images or select files to classify as AI-generated or real art.
@@ -172,7 +171,6 @@ This project is licensed under the [AGPL-3.0 license](LICENSE).
 ## 🌟 Acknowledgments
 
 - **Dataset Sources**: We used a combination of AI-generated art datasets and real art image collections [Source 1](https://www.kaggle.com/datasets/superpotato9/dalle-recognition-dataset) and [Source 2](https://www.kaggle.com/datasets/sankarmechengg/art-images-clear-and-distorted).  
-- **Faculty Advisors**: Thanks to our professors for their invaluable guidance throughout this project.  
 - **Streamlit Community**: For resources and support in app deployment.  
 
 ---
