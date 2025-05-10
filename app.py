@@ -153,7 +153,7 @@ st.markdown(
     <div style='text-align: center;'>
         <p style='font-size: 1.2em; font-family: "Arial", sans-serif;'>
             © 2024 All rights reserved by 
-            <a href='https://github.com/RobinMillford' target='_blank'>
+            <a href='https://github.com/rupakghanghas' target='_blank'>
                 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png' height='30' style='vertical-align: middle;'>
             </a>
         </p>
