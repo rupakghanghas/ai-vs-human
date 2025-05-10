@@ -152,7 +152,7 @@ st.markdown(
     """
     <hr>
     <div style='text-align: center; font-size: 16px;'>
-        © 2024 | Developed by 
+        © 2025 | Developed by 
         <a href='https://github.com/rupakghanghas' target='_blank'>
             <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png' height='20'>
         </a>
