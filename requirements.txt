@@ -1,17 +1,6 @@
-# Prevents NumPy 2.x issues with compiled extensions like TensorFlow
-numpy==1.26.4
-
-# Streamlit for web UI
-streamlit==1.33.0
-
-# TensorFlow version compatible with numpy 1.26.4
-tensorflow==2.15.0
-
-# Data handling
-pandas==2.2.1
-
-# Image processing
-Pillow==10.2.0
-
-# OpenCV for image manipulation (headless to avoid GUI issues)
+streamlit
+tensorflow
+numpy
+pandas
+Pillow
 opencv-python-headless==4.10.0.84
