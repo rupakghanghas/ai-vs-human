@@ -17,7 +17,7 @@ def set_background():
         """
         <style>
         .stApp {
-            background: url("https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg");
+            background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg");
             background-size: cover;
             backdrop-filter: blur(10px);
         }
