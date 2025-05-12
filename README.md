@@ -2,7 +2,7 @@
 
 # AI vs human Art Image Classification
 
-This project is a **college capstone project** designed to classify images as **AI-generated art** or **Real art** using a fine-tuned MobileNetV2 model. The model utilizes transfer learning to achieve high accuracy and interpretability through Grad-CAM visualizations. The app has been deployed on **Streamlit Cloud** for public access, enabling users to upload images and receive predictions directly.
+This project is designed to classify images as **AI-generated art** or **Real art** using a fine-tuned MobileNetV2 model. The model utilizes transfer learning to achieve high accuracy and interpretability through Grad-CAM visualizations. The app has been deployed on **Streamlit Cloud** for public access, enabling users to upload images and receive predictions directly.
 
 ---
 
