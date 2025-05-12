@@ -69,8 +69,6 @@ In this project, a Kaggle Notebook was used extensively for training, testing, a
 
 This combination of methods showcases the project's potential to provide a robust solution for distinguishing between AI-generated and real artworks.
 
-**Kaggle Notebook Link**: [Access Here](https://www.kaggle.com/code/yaminh/ai-vs-real-project)
-
 ---
 
 The project leverages **MobileNetV2's lightweight architecture** to ensure efficient predictions without sacrificing accuracy.
@@ -96,7 +94,7 @@ The app is deployed on **Streamlit Cloud**, making it accessible to users anywhe
    - Click the **Fork** button at the top-right corner of the repository.
 2. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/RobinMillford/Classifying-AI-Generated-and-Real-Art.git
+   git clone https://github.com/rupakghanghas/ai-vs-human.git
    ```
 3. **Navigate to the Project Folder**:  
    ```bash
@@ -130,7 +128,7 @@ The app is deployed on **Streamlit Cloud**, making it accessible to users anywhe
 1. **Fork the Repository** on GitHub.  
 2. **Clone Your Forked Repository**:  
    ```bash
-   git clone https://github.com/RobinMillford/Classifying-AI-Generated-and-Real-Art.git
+   git clone https://github.com/rupakghanghas/ai-vs-human.git
    ```
 3. **Create a New Branch**:  
    ```bash
